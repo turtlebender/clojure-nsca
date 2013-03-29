@@ -1,10 +1,12 @@
 # nsca
 
-FIXME: description
+Part of the @monitorama hackathon. This is an attempt to communicate
+with nagios nsca from clojure. Once successful, this will be integrated
+with Riemann.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/turtlebender/clojure-nsca.
 
 ## Usage
 
@@ -30,11 +32,6 @@ FIXME: listing of options this app accepts.
 
 ## License
 
-Copyright © 2013 FIXME
+Copyright © 2013 Tom Howe
 
-Distributed under the Eclipse Public License, the same as Clojure.
-=======
-clojure-nsca
-============
-
-An clojure client for nsca
+Distributed under the BSD, the same as Clojure.
